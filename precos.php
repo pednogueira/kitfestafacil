@@ -49,7 +49,7 @@
                                     <li><a href="index.php">Home</a></li>
                                 </ul>
                             </nav>
-                    </header><div class="ic">Teste</div>
+                    </header><div class="ic">s</div>
                 </div>
             </div>
         </div>
