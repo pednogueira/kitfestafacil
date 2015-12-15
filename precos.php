@@ -4,9 +4,9 @@
         <title>Preços | Kit Festa Fácil</title>
         <link rel="shortcut icon" href="images/icon.png">
         <meta charset="utf-8">
-        
-         <?php include_once 'template/head.php';?>
-        
+
+        <?php include_once 'template/head.php'; ?>
+
         <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
         <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
         <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
@@ -42,14 +42,14 @@
                             </ul>
                         </nav>
                         <nav>
-                                <ul id="menu">
-                                    <li><a href="contato.php">Contato</a></li>
-                                    <li><a href="kits.php">Nossos Kits</a></li>
-                                    <li><a href="bolos.php">Nossos Bolos</a></li>
-                                    <li><a href="index.php">Home</a></li>
-                                </ul>
-                            </nav>
-                    </header><div class="ic">s</div>
+                            <ul id="menu">
+                                <li><a href="contato.php">Contato</a></li>
+                                <li><a href="kits.php">Nossos Kits</a></li>
+                                <li><a href="bolos.php">Nossos Bolos</a></li>
+                                <li><a href="index.php">Home</a></li>
+                            </ul>
+                        </nav>
+                    </header><div class="ic">Teste</div>
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@
                                 <div class="col3 pad_left1">
                                     <h2>Nossos Preços</h2>
                                 </div>
-                                
+
                             </div>
                             <div class="line1">
                                 <div class="wrapper line2">
@@ -102,11 +102,11 @@
             <div class="body4">
                 <div class="main">
                     <!-- footer -->
-                    <?php include_once 'template/footer.php';?>
+                    <?php include_once 'template/footer.php'; ?>
                     <!-- / footer -->
                 </div>
             </div>
         </div>
-        <script type="text/javascript"> Cufon.now(); </script>
+        <script type="text/javascript"> Cufon.now();</script>
     </body>
 </html>
