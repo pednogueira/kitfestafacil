@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^kitfestafacil\.marjobolos\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.kitfestafacil\.marjobolos\.com\.br$
+RewriteRule ^/?$ "http\:\/\/www\.kitfestafacil\.com\.br" [R=301,L]
+
