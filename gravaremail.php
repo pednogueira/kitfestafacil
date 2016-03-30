@@ -6,10 +6,7 @@ if ($email != "") {
 
     $msg = "Email cadastrado com sucesso.";
 
-    $arquivo = fopen("newsletter.txt", "a+");
-    
-    
-    
+    $arquivo = fopen("newsletter.txt", "a+");   
     fwrite($arquivo, $email);
     fwrite($arquivo, "\n");
 
