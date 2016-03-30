@@ -15,6 +15,9 @@
         <script type="text/javascript" src="js/cufon-replace.js"></script>  
         <script type="text/javascript" src="js/Forum_400.font.js"></script>
         <script type="text/javascript" src="js/atooltip.jquery.js"></script> 
+        <script type="text/javascript" src="js/atooltip.jquery.js"></script> 
+        <script type="text/javascript" src="js/atooltip.jquery.js"></script> 
+        <script type="text/javascript" src="js/atooltip.jquery.js"></script> 
         <!--[if lt IE 9]>
                 <script type="text/javascript" src="js/html5.js"></script>
                 <style type="text/css">
